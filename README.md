@@ -28,10 +28,6 @@ I integrate and deploy everything using Streamlit and Render.com.
 
 ## How to use it?
 
-The application looks like this:
-
-![image](images/screen_home.png)
-
 It is currently hosted by Render.com and each push leads to a new build of the app. I am using the standard plan (2Gb RAM). If you would like to contribute, feel free to submit a PR.
 
 To run it locally, clone this project and run :
